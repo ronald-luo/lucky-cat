@@ -44,5 +44,6 @@ header ul li a {
   height: 150px;
   left: 15%;
   top: 50%;
+  cursor: pointer;
 }
 /*# sourceMappingURL=main.css.map */
